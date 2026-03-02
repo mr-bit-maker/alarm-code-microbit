@@ -1,5 +1,6 @@
 {
     "name": "Alarm Code!!!!!- Makecode script for Microbit",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
